@@ -1,6 +1,6 @@
 # Four card feature section HTML and CSS UI Component.
 
-![screenshot](./Readme_assets/Desktop_view.png)
+![screenshot](./Readme_assets/Desktop_View.png)
 
 - Four feature card section UI component written in HTML and CSS
 - This is a [frontend mentor](https://www.frontendmentor.io/) challenge.
